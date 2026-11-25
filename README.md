@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="[www.linkedin.com/in/abdalrahman-bilal-b42b54391]">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/abdalrahman-bilal-b42b54391">LinkedIn</a> ·
   <a href="mailto:[abdulrahmanbilalmustafa@gmail.com]">Email</a> ·
-  <a href="[assets/Resume.pdf]">Download CV</a>
+  <a href="assets/Resume.pdf">Download CV</a>
 </p>
 
 ---
@@ -80,7 +80,7 @@ Headless laptop turned into a home server by removing the broken screen, install
 * **What it does:** Demonstrates and compares Multi-Factor Authentication (MFA) and passwordless authentication flows—including TOTP, Passkeys, FIDO2, and Windows Hello for Business—using a self-hosted Keycloak lab.
 * **Tech:** Keycloak, Java JDK, OpenSSL (Custom CA/HTTPS), Microsoft Authenticator, FIDO2 / WebAuthn.
 * **Security consideration:** Configuring custom TLS/SSL certificates and trusting a local Certificate Authority (CA) to satisfy WebAuthn's strict HTTPS origin requirements, while keeping private keys and biometrics isolated locally on the user's device.
-* **Link:** 🔗[IAM and Migration techniques](assets/IAM and Migration.md)
+* **Link:** 🔗[IAM and Migration techniques](assets/IAMandMigration.md)
 
 ---
 
