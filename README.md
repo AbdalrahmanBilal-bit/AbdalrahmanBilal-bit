@@ -1,9 +1,9 @@
 <h1 align="center">Abdalrahman Bilal Mustafa</h1>
-<h3 align="center">Cyber Security & Network Engineer</h3>
+<h3 align="center">Cybersecurity & Network Engineer</h3>
 
 <p align="center">
   Final-year B.Sc. Computer Science (Cyber Security) student at Asia Pacific University<br>
-  Based in Jeddah, Saudi Arabia · Open to roles preffered in Europe and the Arabian Gulf
+  Based in Jeddah, Saudi Arabia · Open to roles preferred in Europe and the Arabian Gulf
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 ## About Me
 
-I'm a cyber security and network engineering graduate-to-be who enjoys building and securing the infrastructure organizations rely on. I've worked in a university Network Operations Center and as a Cyber Security Analyst Intern at the Islamic Development Bank, where I led a multi-factor authentication migration and worked on identity and access management and a bunch of other projects. In addition to I am a CTF player in diverse platform such as; TryHackMe placing at top **2%**,HackTheBox, PicoCTF and etc. I'm now looking for a Security and Network Engineer role where I can combine both areas.
+I'm a cybersecurity and network engineering undergraduate passionate about designing, implementing, and securing enterprise infrastructure organizations rely on. I've worked in a university Network Operations Center and as a Cyber Security Analyst Intern at the Islamic Development Bank, where I led a multi-factor authentication migration and worked on identity and access management and a bunch of other projects. Additionally, I am a CTF player in diverse platform such as; TryHackMe placing at top **2%**,HackTheBox, PicoCTF and etc. I'm now looking for a Security and Network Engineer role where I can combine both areas.
 
 - 🎓 Vice Chancellor's List, CGPA 3.66 / 4.0
 - 🔐 Focus: identity & access management, network security, security operations
-- 🌍 Seeking for opportunities
+- 🌍 Open to opportunities
 - 📚 Currently studying for CCNP Enterprise (ENCOR 350-401)
 
 ---
@@ -98,8 +98,8 @@ Headless laptop turned into a home server by removing the broken screen, install
 ## Certifications
 
 - CompTIA Security+ SY0-701 ![pic](assets/certs/security_plus.png)
-- Junior Penteration Tester (JrPT)![](assets/certs/JrPT.png)
-- CCNA: Switchl, Routing, and Wireless Essentials ![](assets/certs/SRWE.png)
+- Junior Penetration Tester (JrPT)![](assets/certs/JrPT.png)
+- CCNA: Switching, Routing, and Wireless Essentials ![](assets/certs/SRWE.png)
 - Red Hat System Administration II (RH134 - RHA) ![](assets/certs/Red%20Hat%20I.png)
 - Red Hat System Administration I (RH124 - RHA) ![](assets/certs/Red Hat II.png)
 - CS50x: Introduction to Computer Science ![](assets/certs/CS50.png)
