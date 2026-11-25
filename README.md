@@ -9,7 +9,7 @@
 <p align="center">
   <a href="[www.linkedin.com/in/abdalrahman-bilal-b42b54391]">LinkedIn</a> ·
   <a href="mailto:[abdulrahmanbilalmustafa@gmail.com]">Email</a> ·
-  <a href="[CV link]">Download CV</a>
+  <a href="[assets/Resume.pdf]">Download CV</a>
 </p>
 
 ---
@@ -56,10 +56,31 @@ Remote access to my home network from another country, using a repurposed old ph
 
 - **What it does:** lets me reach home devices securely from abroad over SSH and xrdp.
 - **Tech:** Linux, SSH, xrdp, openVPN
-- **Security considerations:** [e.g. key-based authentication, port handling, hardening steps]
-- 🔗 (https://lnkd.in/p/g8ngbn-3)
+- **Security considerations:** sshkey-based authentication and hardening steps
+- **Link**🔗 [Remote Home Access](https://lnkd.in/p/g8ngbn-3)
   
   
+
+### Octupus - Home network monitor and DNS Filtering
+
+Headless laptop turned into a home server by removing the broken screen, installing SIEM (wazuh) and PiHole for home network monitoring and DNS filtering
+
+- **What it does:** lets me monitor my home network devices and alert me when unusual incident occurs to compare and measure it to a standard matrix of security incident frameworks
+
+- **Tech:** Wazuh, PiHole
+
+- **Security consideration:** Hardening the server itself before the other devices
+
+- **Link**🔗[Octupus](assets/_project_0ct0pu5.md)
+  
+  
+
+### MFA - IAM and Migration techniques
+
+* **What it does:** Demonstrates and compares Multi-Factor Authentication (MFA) and passwordless authentication flows—including TOTP, Passkeys, FIDO2, and Windows Hello for Business—using a self-hosted Keycloak lab.
+* **Tech:** Keycloak, Java JDK, OpenSSL (Custom CA/HTTPS), Microsoft Authenticator, FIDO2 / WebAuthn.
+* **Security consideration:** Configuring custom TLS/SSL certificates and trusting a local Certificate Authority (CA) to satisfy WebAuthn's strict HTTPS origin requirements, while keeping private keys and biometrics isolated locally on the user's device.
+* **Link:** 🔗[IAM and Migration techniques](assets/IAM and Migration.md)
 
 ---
 
@@ -76,12 +97,12 @@ Remote access to my home network from another country, using a repurposed old ph
 
 ## Certifications
 
-- CompTIA Security+ SY0-701
-- Junior Penteration Tester (JrPT)
-- CCNA: Switchl, Routing, and Wireless Essentials
-- Red Hat System Administration II (RH134 - RHA)
-- Red Hat System Administration I (RH124 - RHA)
-- CS50x: Introduction to Computer Science
+- CompTIA Security+ SY0-701 ![pic](assets/certs/security_plus.png)
+- Junior Penteration Tester (JrPT)![](assets/certs/JrPT.png)
+- CCNA: Switchl, Routing, and Wireless Essentials ![](assets/certs/SRWE.png)
+- Red Hat System Administration II (RH134 - RHA) ![](assets/certs/Red%20Hat%20I.png)
+- Red Hat System Administration I (RH124 - RHA) ![](assets/certs/Red Hat II.png)
+- CS50x: Introduction to Computer Science ![](assets/certs/CS50.png)
 - Cisco CCNP Enterprise, ENCOR 350-401: *in progress*
 
 ---
@@ -99,5 +120,3 @@ Expected graduation: `[Sep 2027]` · CGPA 3.66 / 4.0 · Vice Chancellor's List
 I'm actively looking for a **Security and Network Engineer** position. If you're hiring, I'd love to talk.
 
 📧 abdulrahmanbilalmustafa@gmail.com · 💼 www.linkedin.com/in/abdalrahman-bilal-b42b54391
-
-
